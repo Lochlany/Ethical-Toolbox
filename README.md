@@ -17,9 +17,12 @@ Related Projects
 
 For a deeper look at the standalone implementation of these tools, check out my individual research repositories:
 
-[   Simple-TCP-Port-Scanner](https://github.com/Lochlany/Simple-TCP-Port-Scanner)
-[   Simple-Banner-Grabber](https://github.com/Lochlany/Simple-Banner-Grabber)
-[   Simple-Subdomain-Enumerator](https://github.com/Lochlany/Simple-Subdomain-Enumerator)
+[   Simple-TCP-Port-Scanner](
+https://github.com/Lochlany/Simple-TCP-Port-Scanner)
+[   Simple-Banner-Grabber](
+https://github.com/Lochlany/Simple-Banner-Grabber)
+[   Simple-Subdomain-Enumerator](
+https://github.com/Lochlany/Simple-Subdomain-Enumerator)
 
 Usage
 
