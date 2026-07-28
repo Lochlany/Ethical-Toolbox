@@ -4,7 +4,7 @@ Disclaimer
 
 This project is for educational and authorized security testing purposes only. The creator is not responsible for any misuse.
 
-Ethical Toolbox
+PAHDNS
 
 A modular Python security toolkit for reconnaissance and network analysis. This repository serves as the central hub for my security scripts.
 Core Modules
