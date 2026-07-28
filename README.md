@@ -18,7 +18,7 @@ Core Modules
 Related Projects
 
 For a deeper look at the standalone implementation of these tools, check out my individual research repositories:
-
+(OUTDATED!! NOT USED IN THIS TOOL ANYMORE, THEY ARE UPDATED MORE ADVANCED ONES IN THIS TOOL.)
 [   Simple-TCP-Port-Scanner](
 https://github.com/Lochlany/Simple-TCP-Port-Scanner)
 [   Simple-Banner-Grabber](
